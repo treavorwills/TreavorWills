@@ -1,4 +1,14 @@
-### Hi there 👋
+# Treavor Wills
+
+Hi everyone! I’m a hard working software developer with a professional background in sales and customer service. My educational background is in mathematics and programming. Through this, I’ve become adept using logic to simplify and enhance my coding. While earning a full-stack web development certificate through the University of Utah, I balanced my full time employment and parenthood with the rigors of learning web development languages, frameworks, libraries and techniques. I became an expert in planning and prioritizing my time to meet tight deadlines and achieve my goals. I’m proficient in HTML, CSS and Javascript and mastered tools such as React, Express, Node and TailwindCSS.  My applications are developed to be responsive, intuitive, and quick for positive user experiences. In one of my projects, an online classifieds site similar to craigslist, I handled all the back-end queries in SQL, allowing users to log in, search items by category or user input, save items and view seller contact info. 
+Looking to apply, and further develop, my technical and collaborative skills to a company to build better web experiences. 
+
+- 🌱 I’m currently learning REACT.
+- 🤔 I’m looking for help with landing my first web development job.
+- 💬 Ask me about bicycles and active transportation!
+- 📫 How to reach me: treavor.wills@gmail.com
+- ⚡ Fun fact: I was a stay-at-home dad from 2019-2021. My quickest full diaper and outfit change clocked just under 15 seconds. 
+
 
 <!--
 **treavorwills/treavorwills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
